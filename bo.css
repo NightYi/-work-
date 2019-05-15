@@ -1,0 +1,20 @@
+li {
+    display: inline;
+}
+
+a:link {
+    color: darkblue;
+}
+
+a:visited {
+    color: darkblue;
+}
+
+body {
+    background-image: url("NR0006001_r1_c1.jpg")
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
